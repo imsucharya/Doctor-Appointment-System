@@ -97,6 +97,7 @@ def signup():
 	# start Signup Window	
 	winsignup = Tk()
 	winsignup.title("Docter Appointment App")
+	winsignup.iconbitmap('G:\SUCHARYA\SIES GST 2020 - 2024\SEM IV\SEM IV PROJECTS\DBMS\College Project\logo.ico')
 	winsignup.maxsize(width=500 ,  height=600)
 	winsignup.minsize(width=500 ,  height=600)
 
@@ -206,6 +207,7 @@ win = Tk()
 
 # app title
 win.title("Docter Appointment App")
+win.iconbitmap('G:\SUCHARYA\SIES GST 2020 - 2024\SEM IV\SEM IV PROJECTS\DBMS\College Project\logo.ico')
 
 # window size
 win.maxsize(width=500 ,  height=500)
